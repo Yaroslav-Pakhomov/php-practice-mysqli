@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!-- специальная шапка, указывает, что у нас XML и задаёт версию этого языка -->
+
+<!-- Корневой элемент. Представлять собой тег, в котором лежит весь документ -->
+<root>
+    <tag>
+        <elem-child>text</elem-child>
+    </tag>
+    <user-name>john</user-name>
+    <user-surn>smith</user-surn>
+</root>

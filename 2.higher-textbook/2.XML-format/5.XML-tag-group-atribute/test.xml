@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!-- специальная шапка, указывает, что у нас XML и задаёт версию этого языка -->
+
+<!-- Корневой элемент. Представлять собой тег, в котором лежит весь документ -->
+<root>
+    <tag attr="val1">text1</tag>
+    <tag attr="val2">text2</tag>
+    <tag attr="val3">text3</tag>
+    <user age="23" salary="1000">john</user>
+    <product cost="100" amount="3">
+        prod1
+    </product>
+    <product cost="200" amount="4">
+        prod2
+    </product>
+    <product cost="300" amount="5">
+        prod3
+    </product>
+</root>

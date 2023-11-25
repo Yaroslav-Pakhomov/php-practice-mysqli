@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /2.higher-textbook/4.API-work/15.use-external-API/api.loc
+
+RewriteRule ./+ index.php
