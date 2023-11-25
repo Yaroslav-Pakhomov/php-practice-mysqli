@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/php-practice-mysqli.local.iml" filepath="$PROJECT_DIR$/.idea/php-practice-mysqli.local.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../php-practice-mysqli/.idea/php-practice-mysqli.iml" filepath="$PROJECT_DIR$/../php-practice-mysqli/.idea/php-practice-mysqli.iml" />
     </modules>
   </component>
 </project>

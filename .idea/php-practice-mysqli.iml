@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/3.oop-mvc/6.namespaces-n-autoloading/1.introduction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.oop-mvc/6.namespaces-n-autoloading/2.simple-treatment" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.oop-mvc/6.namespaces-n-autoloading/3.use-command-n-aliases" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.oop-mvc/6.namespaces-n-autoloading/4.autoloading-classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.oop-mvc/6.namespaces-n-autoloading/5.custom-autoloading-classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.oop-mvc/7.MVC-framework-development" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
