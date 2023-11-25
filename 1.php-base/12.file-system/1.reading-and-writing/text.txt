@@ -1,0 +1,48 @@
+Alt + 1						-	show/hide navbar
+
+Alt + Home					-	мини navbar
+Alt + Insert				-	create new file
+Alt + Insert				-	в файле генерация кода
+
+Ctrl + Alt + S  			-	settings
+Ctrl + Shift + A			-	find action/settings
+
+Ctrl + N 					-	Переход к классу
+Ctrl + Shift + N 			-	Переход к файлу
+Ctrl + Alt + Shift + N 		-	Переход к символу (поиск метода)
+Alt + Right/Left			-	Навигация по вкладкам
+Ctrl + G					-	Переход к номеру строки
+Ctrl + Shift + Backspace	-	Вернуться к предыдущему месту редактирования
+Ctrl + F4					-	Закрыть файл
+
+Ctrl + F    				-	Поиск по файлу
+F3							-	Следующий найденый результат
+Shift + F3					-	Предудущий найденый результат
+Ctrl + Shift + F    		-	Поиск по всему проекту
+Ctrl + Shift + R    		-	Поиск и замена по всему проекту
+Ctrl + R					-	Find and Replace
+Ctrl + Shift + G 			-	Показать/скрыть карту
+
+
+Ctrl + D					-	Создать дубликат текущей строки
+Ctrl + Y					-	Удаление всей текущей строки
+Ctrl + W					-	Выделить блок кода (слово/строка/документ)
+Ctrl + Shift + up			-	Переместить текущую строку на одну строку вверх
+Ctrl + Shift + down			-	Переместить текущую строку на одну строку вниз
+Ctrl + /					-	строчный комментарий
+Ctrl + Shift + /			-	блочный комментарий
+Ctrl + ALT + L				-	реформат кода!!!!!!!!!!!!!
+ALT + Click					-	множественный курсор
+Shift + Enter				-	new line
+Ctrl + Shift + Enter		-	Complete a statement (Завершаем оператор)
+Alt + Enter					-	Quick Solution
+Ctrl + Delete				-	Удалить слово после курсора
+Ctrl + Backspace			-	Удалить слово перед курсором
+Ctrl + NumPad+/-			-	Развернуть / свернуть блок кода
+
+Ctrl + W 					-   Выделить строку
+Alt +  J					-	Выделить одинковые слова
+Ctrl + Shift + left/right   -   Выделить сторку слева/справа
+
+Ctrl + K 					-   Сделать коммит
+

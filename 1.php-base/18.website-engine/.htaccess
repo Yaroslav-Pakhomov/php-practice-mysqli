@@ -1,0 +1,20 @@
+#
+RewriteEngine On
+RewriteBase /
+
+# Файл, который должен обрабатывать запрощенный URL
+# Адрес /test был обработан файлом index.php:
+# RewriteRule /test index1.php
+
+
+
+# RewriteRule первым параметром принимает регулярное выражение
+# Все URL обрабатываются файлом index1.php
+
+# Часть адресов все-таки не должны перенаправляться.
+# Это адреса, которые ведут к файлам ресурсов:
+# к CSS, JavaScript, картинкам и так далее
+
+# RewriteCond отменяет их перенаправление
+RewriteCond %{REQUEST_URI} !\.(js|css|ico|jpg|png)$
+RewriteRule .+ index.php
