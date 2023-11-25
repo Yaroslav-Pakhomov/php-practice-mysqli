@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteBase /
+
+# Адреса из папки project/webroot не должны перенаправляться на индекс
+# Там мы храним стили, скрипты, картинки и тому подобные вещи
+RewriteCond %{REQUEST_URI} !^/project/webroot/
+
+# Переадресоция на index.php
+RewriteRule .+ index.php
